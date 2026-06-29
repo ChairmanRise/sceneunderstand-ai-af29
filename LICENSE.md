@@ -1,4 +1,4 @@
-# 
+# Instant SceneUnderstand script. Download and install with api-access and cloud-sync — fast, secure, and easy to use.
 
 
 
